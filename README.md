@@ -4,10 +4,10 @@ It is made by fully python languages.There are many libraries are used in this s
 ## Requirements
 
 - Python 3
-- Numpy librarie
-- Tkinter librarie
-- Opencv librarie
-- pyautogui librarie
+- Numpy library 
+- Tkinter library 
+- Opencv library
+- pyautogui library
 
 ```
     pip install pyautogui
