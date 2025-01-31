@@ -56,7 +56,7 @@ class ScreenRecorder:
 ```
 
 - ##### init: Initializes the GUI components and sets up the initial state.
-    * root: The main windo
+    * root: The main window
     * is_recording: A flag to indicate if recording is in progress.
     * title_label: A label for the title.
     * start_button: A button to start recording.
