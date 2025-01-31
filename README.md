@@ -125,7 +125,7 @@ This code sets up a simple screen recorder with a GUI, allowing the user to star
 There is exe file But I cannot post here in github
 
 - you can use software in you editior like vs code i alreday paste link.
-- Or ````pip install pyintaller ```` and make exe file.
+- Or ````pip install pyintaller ```` to make exe file.
 - To see how create python file to exe see this video: 
 
 
